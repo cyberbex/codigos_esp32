@@ -6,7 +6,7 @@
 
 #define Ro 14.5 //Enter found Ro value
 
-#define MQ_sensor 4 //Sensor is connected to A4
+#define MQ_sensor 32 //Sensor is connected to A4
 
 
 
